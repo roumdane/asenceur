@@ -11,6 +11,10 @@ une cabine dans une mouvement verticale à l'aide du servomoteur.
 
 on vas crée un système ascenseur qui utiliser un servomoteur les ultrasons sont utilisés pour aider les gens pour monter et descendre  surtout pour les handicapés et les vieilles gens dans une périodes rapide , le mouvement du cabine est contrôlé à l'aide de servomoteur et les boutons avec eux en peut appelé la cabine et à chaque appuie sur les boutons avec l'aide des logiciels arduino il nous affiche sur l'écrans de l'ordinateur la cabine dans quelle étage et sa détection et l'arrive
 
+
+![image](https://github.com/roumdane/asenceur/assets/134685007/803f7b7b-a701-43dd-8bd0-d0d37bf796b5)
+
+
 # fabrication
 ## composants nécessaires 
 1 * carte arduino (UCA)
@@ -44,6 +48,9 @@ avec un cable USB on branche la carte UCA à un ordinateur et mon lui transmet l
 on vois que la cabine se met à boujer quand on appuie sur un de les boutons 
 ## conclusions et perspectives 
 l'objectif principale de ce projet était concevoir et de mettre en oeuvre un systéme principe de  ascenseur . le princepe de ce système est de nous donne une aperçu de un ascenseur réelle  .l'asenceur utiliser pour faciliter la mouvement .
+
+
+![fcgl309q](https://github.com/roumdane/asenceur/assets/134685007/1d70d037-0f0c-489a-9650-7168744dd4b4)
 
 
 
